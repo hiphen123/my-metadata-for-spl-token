@@ -1,0 +1,13 @@
+{
+	"name": "Llamanaut",
+	"symbol": "LMT",
+	"description": "This is a memecoin",
+	"seller_fee_basis_points": 0,
+	"image": "https://github.com/hiphen123/crypto/blob/main/llamanaut.jpeg?raw=true",
+	"animation_url": "",
+	"external_url": "",
+	"collection": {
+	   "name": "Llamacoins",
+	   "family": "Solana" 
+	}
+}
